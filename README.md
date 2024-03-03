@@ -71,6 +71,8 @@ Now, click on the *labels* and select single labels. Set the value as distance a
 ![in process image](map-progress-5.png)
 *Formatting for the distance of the lines*
 
+This should be similar to what your map currently looks like
+![in process image](map-progress-6.png)
 
 
 
