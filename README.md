@@ -41,7 +41,7 @@ Start a new project in QGIS and under *XYZ Tiles* select the *ESRI Standard* map
 
 If you set the view to the whole state of Texas you will have a lot of data on the screen so to simplify, set your scale to 1:125000 at the greatest and pick an area in Texas that you would like to focus on. For this example, we will be focused on the Mineral Wells area.
 
-![in process image](map-progress-1)
+![in process image](map-progress-1.png)
 *Data viewed throughout the state of Texas*
 
 Format the school points and trail 
