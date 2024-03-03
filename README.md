@@ -28,7 +28,8 @@ Map of school locations and hikes in and around Mineral Wells, TX.
 To start the map first go to the data sites to download your data. 
 To download the Texas State Park trail data simply click on the kmz file link and download to your computer.
 To dowload the school data, click on the 'current schools' option. If you want to explore mapping any other options, feel free to do so.
-Example of in process map ![in process image](Trail-data-1.png)
+
+Click on current schools option ![in process image](Trail-data-1.png)
 
 You can describe the mapmapking process in this section, including images where it helps to describe the process.
 
