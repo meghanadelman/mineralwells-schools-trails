@@ -65,6 +65,12 @@ Select the source layer as the schools and the destination layer as your trails.
 
 ![in process image](map-progress-4.png)
 
+Now we need to work on the properties of the lines. Open the layer properties and click on *symbology*. Select the categorized option and set the value as distance. For the color, select random colors and click on *classify*. You should see the values of all the line distances, each represented by different colors.
+Now, click on the *labels* and select single labels. Set the value as distance and format the text how you would like. Because the distances are written out to 10 decimals, we need to shorten them to be able to show on the map. Click on the *formatting* tab and check the formatted numbers option. You can choose how many decimal places you want to show, I chose 3.
+
+![in process image](map-progress-5.png)
+*Formatting for the distance of the lines*
+
 
 
 
