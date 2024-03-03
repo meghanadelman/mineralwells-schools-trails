@@ -96,4 +96,4 @@ The overall mapmaking process is quite simple but can be used in a variety of wa
 
 Here you are linking from the README.md to the index.html.
 
-Please view the [final map online](www.github...)
+Please view the [final map online](https://github.com/meghanadelman/weatherford-schools-trails/blob/main/index.html)
