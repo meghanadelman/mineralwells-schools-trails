@@ -44,7 +44,14 @@ If you set the view to the whole state of Texas you will have a lot of data on t
 ![in process image](map-progress-1.png)
 *Data viewed throughout the state of Texas*
 
-Format the school points and trail 
+Once you have selected your area of focus, format the school points and trail. You can do this by right clicking on the layer and selecting *properties*. 
+For the trails layer, I would suggest editing the line properties. Go to *symbology* and select *single symbol*. Choose a color that represents trails and select the stroke style *dash line*.
+![in process image](map-progress-2.png)
+
+For the school points, leave the symbology as it is and select a color that you feel represents schools.
+
+
+
 
 ### Map summary
 
