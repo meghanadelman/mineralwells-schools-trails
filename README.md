@@ -5,7 +5,9 @@ Map of school locations and hikes in and around Mineral Wells, TX.
 
 - [Data Source](#data-source)
 - [Project Background](#project-background)
-- ....
+- [Purpose](#purpose)
+- [Mapmaking Process](#mapmaking-process)
+
 
 ***
 
@@ -54,7 +56,17 @@ Once you have the symbology of your layers finalized, it is time to add names!
 Find the properties window for the Texas Trails layer and click on *labels*. Click on *single labels* and set the value as *Name*. Then select the font type, size, and color. To help the trail names stand out, you can add a drop shadow. 
 Some of the trail names may not be visible with the 1:250000 scale. This is okay based on the purpose of our static map, however if you would like to create a zoomable map you can set them to show up based on scale under the *rendering* tab.
 Follow the same steps with the School layers. You should get something that looks like this:
+
 ![in process image](map-progress-3.png)
+
+Now, we need to find out how far away the schools are from the nearest trail. 
+To do this, select the Texas trails layer. Then, find the *shortest line between features* option under the *Vector Analysis* tab in the Processing Toolbox. 
+Select the source layer as the schools and the destination layer as your trails. This is how the paramters should look before you hit Run.
+
+![in process image](map-progress-4.png)
+
+
+
 
 
 
