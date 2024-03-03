@@ -31,7 +31,9 @@ To dowload the school data, click on the 'current schools' option. If you want t
 
 *Click on current schools option* ![in process image](Trail-data-1.png)
 
-You can describe the mapmapking process in this section, including images where it helps to describe the process.
+Once you have clicked on the correct tab you will see this selection:
+![in process image](Trail-data-2.png)
+Click on the GeoJSON file download.
 
 You can also use some lists, and here's some formatting ideas.
 
