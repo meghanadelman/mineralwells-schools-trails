@@ -7,6 +7,8 @@ Map of school locations and hikes in and around Mineral Wells, TX.
 - [Project Background](#project-background)
 - [Purpose](#purpose)
 - [Mapmaking Process](#mapmaking-process)
+- [Map Summary](#map-summary)
+- [Final Project Link](#final-project-link)
 
 
 ***
@@ -87,7 +89,8 @@ Once your map is finalized, export the image as a jpg. Please export two version
 
 ### Map summary
 
-What are the key findings to take from your map and the overall mapmaking process?
+THis map allows you to see how close schools are to nature areas such as hiking trails in Mineral Wells, Texas. In creating this map, you are able to see if there is a pattern to the distance between schools and hiking trails across Texas. While this may seem like an unusual comparison, there are several different ways you can analyze this map and further directions where this data can be applied. 
+The overall mapmaking process is quite simple but can be used in a variety of ways, allowing for a lot of creativity.
 
 ## Final Project Link
 
