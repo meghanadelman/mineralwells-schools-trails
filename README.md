@@ -1,5 +1,5 @@
-# weatherford-schools-trails
-Map of school locations and hikes in Weatherford, TX.
+# Mineral Wells Schools and Trails
+Map of school locations and hikes in and around Mineral Wells, TX.
 
 ## Project Contents
 
@@ -11,8 +11,8 @@ Map of school locations and hikes in Weatherford, TX.
 
 ### Data Source
 
-[Link to data source](https://schoolsdata2-tea-texas.opendata.arcgis.com)
-[Link to data source](https://tpwd.texas.gov/state-parks/park-information/maps/use-the-trails-maps-anytime-anywhere)
+[Link to school data](https://schoolsdata2-tea-texas.opendata.arcgis.com)
+[Link to trail data](https://tpwd.texas.gov/state-parks/park-information/maps/use-the-trails-maps-anytime-anywhere)
 
 
 ### Project Background
