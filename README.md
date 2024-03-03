@@ -29,19 +29,16 @@ To start the map first go to the data sites to download your data.
 To download the Texas State Park trail data simply click on the kmz file link and download to your computer.
 To dowload the school data, click on the 'current schools' option. If you want to explore mapping any other options, feel free to do so.
 
- ![in process image](Trail-data-1.png)
+ ![in process image](School-data-1.png)
  *Click on current schools option*
 
 Once you have clicked on the correct tab you will see this selection:
-![in process image](Trail-data-2.png)
+![in process image](School-data-2.png)
 *Click on the GeoJSON file download*
 
-You can also use some lists, and here's some formatting ideas.
+Once you have both these files downloaded, open the QGIS Software. 
+Start a new project in QGIS and under *XYZ Tiles* select the *ESRI Standard* map format. Then import the Trail data kmz file and the School data GeoJSON file.
 
-1. **Example bold**
-2. *Example italics*
-3. 
-4. 
 
 ### Map summary
 
