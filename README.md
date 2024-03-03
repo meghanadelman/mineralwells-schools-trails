@@ -29,11 +29,12 @@ To start the map first go to the data sites to download your data.
 To download the Texas State Park trail data simply click on the kmz file link and download to your computer.
 To dowload the school data, click on the 'current schools' option. If you want to explore mapping any other options, feel free to do so.
 
-*Click on current schools option* ![in process image](Trail-data-1.png)
+ ![in process image](Trail-data-1.png)
+ *Click on current schools option*
 
 Once you have clicked on the correct tab you will see this selection:
 ![in process image](Trail-data-2.png)
-Click on the GeoJSON file download.
+*Click on the GeoJSON file download*
 
 You can also use some lists, and here's some formatting ideas.
 
