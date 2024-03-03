@@ -39,16 +39,22 @@ Once you have clicked on the correct tab you will see this selection:
 Once you have both these files downloaded, open the QGIS Software. 
 Start a new project in QGIS and under *XYZ Tiles* select the *ESRI Standard* map format. Then import the Trail data kmz file and the School data GeoJSON file.
 
-If you set the view to the whole state of Texas you will have a lot of data on the screen so to simplify, set your scale to 1:125000 at the greatest and pick an area in Texas that you would like to focus on. For this example, we will be focused on the Mineral Wells area.
+If you set the view to the whole state of Texas you will have a lot of data on the screen so to simplify, set your scale to 1:250000 at the greatest and pick an area in Texas that you would like to focus on. For this example, we will be focused on the Mineral Wells area.
 
 ![in process image](map-progress-1.png)
 *Data viewed throughout the state of Texas*
 
 Once you have selected your area of focus, format the school points and trail. You can do this by right clicking on the layer and selecting *properties*. 
 For the trails layer, I would suggest editing the line properties. Go to *symbology* and select *single symbol*. Choose a color that represents trails and select the stroke style *dash line*.
+
 ![in process image](map-progress-2.png)
 
 For the school points, leave the symbology as it is and select a color that you feel represents schools.
+Once you have the symbology of your layers finalized, it is time to add names!
+Find the properties window for the Texas Trails layer and click on *labels*. Click on *single labels* and set the value as *Name*. Then select the font type, size, and color. To help the trail names stand out, you can add a drop shadow. 
+Some of the trail names may not be visible with the 1:250000 scale. This is okay based on the purpose of our static map, however if you would like to create a zoomable map you can set them to show up based on scale under the *rendering* tab.
+Follow the same steps with the School layers. You should get something that looks like this:
+![in process image](map-progress-3.png)
 
 
 
